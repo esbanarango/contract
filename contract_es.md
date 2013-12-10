@@ -20,25 +20,25 @@ performing Services.
 ## Terminos
 
 1. **Tarifa**:
-Servicios se facturarán al cliente a razón de $ 25 USD por hora.
+Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
 
 2. **Pagos**:
-El cliente deberá enviar el pago al desarrollador cada lunes en relación a la semana de trabajo anterior.
+_El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior.
 	
 	1. **Pagos Atrasados**:
-        Si el pago tiene más de dos dias de retraso, no se realizarán ningún servicios hasta recibir el pago del cliente.
+        Si el pago tiene más de dos dias de retraso, no se realizarán ningún servicios hasta recibir el pago _del cliente_.
 
 
 3. **Tiempo Facturable**:
-Todo el tiempo en el cual se realicen servicios o comunicaciónes con el cliente es facturable.
+Todo el tiempo en el cual se realicen servicios o comunicaciónes con _el cliente_ es facturable.
 
 
 4. **Copyright**:
-Derechos de autor de todos los productos creados durante la realización de Servicios para el Cliente serán trasladados al Cliente una ves se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
+Derechos de autor de todos los productos creados durante la realización de Servicios para _el Cliente_ serán trasladados _al cliente_ una ves se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
 
 5. **Excepciones de Copyright**
-	1. El desarrollador se reserva el derecho de reutilizar partes del Producto creado como se desee, siempre y cuando las porciones sean soluciones generales a problemas comunes y no son específicas al producto Clientes.
-	2. El cliente sólo pagará por las partes del producto que sean
+	1. _El desarrollador_ se reserva el derecho de reutilizar partes del Producto creado como se desee, siempre y cuando las porciones sean soluciones generales a problemas comunes y no son específicas al producto _del cliente_.
+	2. _El cliente_ sólo pagará por las partes del producto que sean
 creadas durante el período de vigencia de este contrato.
 
 6. **Terminación**:
@@ -55,15 +55,15 @@ contrato finalizará inmediatamente.
 El software desarrollado no tendrá ningún tipo de soporte para las versiones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
 
 2. **Pruebas**
-Como parte de un proceso serio de desarrollo de software, el desarrollador utiliza como metodología de desarrollo "Test Driven Development", es decir escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuántas veces se realizen cambios. Por lo tanto si algún empleado por parte del cliente u otros contratistas estarán trabajando en el proyecto junto con el desarrollador, se exige que también escriban pruebas para todo el código que producen.
+Como parte de un proceso serio de desarrollo de software, _el desarrollador_ utiliza como metodología de desarrollo "Test Driven Development", es decir, escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuántas veces se realizen cambios. Por lo tanto si algún empleado por parte _del cliente_ u otros contratistas estarán trabajando en el proyecto junto con _el desarrollador_, se exige que también escriban pruebas para todo el código que producen.
 
 3. **Control de versiones**
-Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará en GitHub de manera privada y es el Cliente el encargado de cancelar los costos mensuales del mismo mientras el miento de desarrollo.
+Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado _el producto_ este repositorio será transpasado a la cuenta que proporcione _el cliente_, y este correré con los gastos de alojamiento del repositorio.
 
 4. **Comunicaciones**
-Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dicho caso cada hora trabajado por fuera de las hroas regualres de trabajo será cobrada a $ 30 USD. 
+Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $ 30 USD. 
 
-La comunicación podrá ser en un medio basado en texto. Aunque no todos los debates se hacen fácilmente de esta manera, por lo tanto , a través de Skype / Google Hangout , o en persona si se encuentra en la zona [ MI CIUDAD ] , teniendo en cuenta que todas las decisiones que se toman se escribirán y necesiten su aprobación por escrito .
+La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout , o en persona si se encuentra en el _Area Metropolitana_.
 
 
 5. **Project Management**
