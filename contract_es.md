@@ -24,11 +24,11 @@ Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
 _El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previa mente acordado por las partes.
 	
 	1. **Pagos Atrasados**:
-        Si el pago tiene más de dos dias de retraso, no se realizarán ningún servicios hasta recibir el pago _del cliente_.
+        Si el pago tiene más de dos días de retraso, no se realizarán ningún servicios hasta recibir el pago _del cliente_.
 
 
 3. **Tiempo Facturable**:
-Todo el tiempo en el cual se realicen servicios o comunicaciónes con _el cliente_ es facturable.
+Todo el tiempo en el cual se realicen servicios o comunicaciones con _el cliente_ es facturable.
 
 
 4. **Copyright**:
@@ -53,15 +53,15 @@ contrato finalizará inmediatamente.
 El software desarrollado no tendrá ningún tipo de soporte para las versiones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
 
 2. **Pruebas:**
-Como parte de un proceso serio de desarrollo de software, _el desarrollador_ utiliza como metodología de desarrollo "Test Driven Development", es decir, escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuántas veces se realizen cambios. Por lo tanto si algún empleado por parte _del cliente_ u otros contratistas estarán trabajando en el proyecto junto con _el desarrollador_, se exige que también escriban pruebas para todo el código que producen.
+Como parte de un proceso serio de desarrollo de software, _el desarrollador_ utiliza como metodología de desarrollo "Test Driven Development", es decir, escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuantas veces se realicen cambios. Por lo tanto si algún empleado por parte _del cliente_ u otros contratistas estarán trabajando en el proyecto junto con _el desarrollador_, se exige que también escriban pruebas para todo el código que producen.
 
 3. **Control de versiones:**
-Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado este contrato se relaizará la transferencia de propiedad del repositorio  a la cuenta de GitHub que proporcione _el cliente_, y este continuará con los gastos de alojamiento del repositorio.
+Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado este contrato se realizará la transferencia de propiedad del repositorio  a la cuenta de GitHub que proporcione _el cliente_, y este continuará con los gastos de alojamiento del repositorio.
 
 4. **Comunicaciones:**
 Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $ 30 USD.  La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout, o en persona si se encuentra en el _Area Metropolitana_.
 
-5.*Puesta en producción*
+5. **Puesta en producción**
 Si _el producto_ desarrollado o los servicios prestados requieren de un despliegue en producción, _el desarrollador_ deberá realizar todas las configuraciones necesarias para dicho despliegue. _El cliente_ de igual manera debe hacerse cargo de todos los gastos relacionados con servicios externos, hosting y dominios.
 
 6. **Gestión de Proyectos:**
