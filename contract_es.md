@@ -3,7 +3,7 @@
 ## Definiciones
 
 **Desarrollador**:
-Name of Individual issuing this contract.
+Esteban Arango Medina, identificado con cédula número: 1039448326 de Sabaneta, Antioquia, Colombia.
 
 **Cliente**:
 Name of Company or individual entering into this contract with the Developer.
@@ -22,7 +22,7 @@ performing Services.
 1. **Tarifa**:
 Servicios se facturarán al cliente a razón de $ 25 USD por hora.
 
-2. **Payment**:
+2. **Pagos**:
 El cliente deberá enviar el pago al desarrollador cada lunes en relación a la semana de trabajo anterior.
 	
 	1. **Pagos Atrasados**:
@@ -52,23 +52,22 @@ contrato finalizará inmediatamente.
 ## Aspectos Importantes
 
 1. **Compatibilidad del navegador**
-El software desarrollado no tendrá ningún tipo de soporte para las veriones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
+El software desarrollado no tendrá ningún tipo de soporte para las versiones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
 
 2. **Pruebas**
-We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
+Como parte de un proceso serio de desarrollo de software, el desarrollador utiliza como metodología de desarrollo "Test Driven Development", es decir escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuántas veces se realizen cambios. Por lo tanto si algún empleado por parte del cliente u otros contratistas estarán trabajando en el proyecto junto con el desarrollador, se exige que también escriban pruebas para todo el código que producen.
 
-3. **Version Control**
-Git will be used to keep track of all changes that happen in the application.... github pago.
+3. **Control de versiones**
+Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará en GitHub de manera privada y es el Cliente el encargado de cancelar los costos mensuales del mismo mientras el miento de desarrollo.
 
-Additional development
-Any additional development needed above and beyond what we have agreed to here must be accompanied by an additional contract which we will be happy to provide upon request. We retain the right to refuse additional work that is not specifically outlined in this document.
+4. **Comunicaciones**
+Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dicho caso cada hora trabajado por fuera de las hroas regualres de trabajo será cobrada a $ 30 USD. 
 
-Contact
-All communications will be made during regular business hours (Monday-Friday, 9am-5pm CST, excluding holidays) and we will return any contact requests within one business day unless we notify you ahead of time that we will be out of the office. Of course we understand that emergencies do arise, so in the case of one know that our hours will be billed at time and a half. We appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the [MY CITY] area, keeping in mind that any decisions that are made will be written down and require your written approval.
+La comunicación podrá ser en un medio basado en texto. Aunque no todos los debates se hacen fácilmente de esta manera, por lo tanto , a través de Skype / Google Hangout , o en persona si se encuentra en la zona [ MI CIUDAD ] , teniendo en cuenta que todas las decisiones que se toman se escribirán y necesiten su aprobación por escrito .
 
-As we value your time as well as our own, we ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that we can be fully prepared. If we are unable to attend a meeting at your suggested time, we will be happy to provide two times that will work for us. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
 
-Project Management
+5. **Project Management**
+
 If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
 To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
 
