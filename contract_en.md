@@ -1,85 +1,86 @@
-# Service Contract for Software Development
+# Contrato de prestación de servicios
 
-## Definitions
+><div style="float: right;">Medellín, Antioquia. Diciembre 10 de 2013.
+</div>
 
-**Developer**:
-Name of Individual issuing this contract.
+## Definiciones
 
-**Client**:
-Name of Company or individual entering into this contract with the Developer.
+**Desarrollador**:
+Esteban Arango Medina, identificado con cédula de ciudadanía número: 1039448326 de Sabaneta, Antioquia, Colombia.
 
-**Services**:
-Any task or series of tasks done by the Developer on request from the Client,
-or as part of fulfilling a request from the Client.
+**Cliente**:
+Andres Felipe Alvarez Bermudez, identificado con cédula de ciudadanía número: 8102663 de Medellín, Antioquia, Colombia.
 
-**Product**:
-Any code, images, markup, scripts, content created by the Developer while
-performing Services.
+**Servicios**:
+Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petición _del cliente_, o como parte del cumplimiento de una solicitud _del cliente_.
+
+**Producto**:
+Cualquier código, imágenes, marcas, scripts, o contenido creado por _el desarrollador_, mientras la realización de _servicios_.
 
 
-## Terms
+##Identificación de las Partes 
+El presente contrato se celebra entre _el desarrollador_ y _el cliente_.
 
-1. **Rate**:
-Services shall be billed to the Client at the rate of $__ USD per hour.
+## Terminos
 
-2. **Payment**:
-The Client shall send payment to the Developer each monday concerning to the work week preceding.
+1. **Tarifa**:
+Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
+
+2. **Pagos**:
+_El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previa mente acordado por las partes.
 	
-	1. **Late Payment**:
-	If a payment is more than 2 days late, no services will be performed for the
-	Client until payment is received.
+	1. **Pagos Atrasados**:
+        Si el pago tiene más de dos días de retraso, no se realizará ningún servicio hasta recibir el pago _del cliente_.
 
-3. **Billable Time**:
-All time spent performing Services and communicating with the Client is
-billable.
 
-	1. **Estimations**:
-	If an estimate is requested by the Client, the first 30 minutes of time spent
-	preparing the estimate will not be billable.  Time spent on an estimate beyond
-	30 minutes will be billable at the normal rate.
+3. **Tiempo Facturable**:
+Todo el tiempo en el cual se realicen servicios o comunicaciones con _el cliente_ es facturable.
+
 
 4. **Copyright**:
-Copyright of all Products created while performing Services for the Client will
-be transferred to the Client upon receipt of payment in full, except in the
-cases described below.
+Derechos de autor de todos los productos creados durante la realización de servicios para _el Cliente_ serán trasladados _al cliente_ una ves se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
 
-5. **Copyright Exceptions**
-	1. The Developer reserves the right to reuse and re-license portions of the
-created Product as desired, as long as the portions are general solutions
-to common problems and are not specific to the Clients product.
-	2. The Client will only be billed for portions of the Product which were
-created during the effective period of this contract and created while
-performing Services for the Client.
+5. **Excepciones de Copyright**
+	1. _El desarrollador_ se reserva el derecho de reutilizar partes del producto creado como se desee, siempre y cuando las porciones sean soluciones generales a problemas comunes y no son específicas al producto _del cliente_.
+	2. _El cliente_ sólo pagará por las partes del producto que sean
+creadas durante el período de vigencia de este contrato.
 
-6. **Termination**:
-Either party must give at least 5 days notice to the other party before
-termination.  This contract may only be terminated after all outstanding
-invoices have been paid in full.
+6. **Terminación**:
+Cualquiera de las partes tiene que dar por lo menos 5 días de antelación a la otra parte antes de dar por terminado dicho contrato y este puede ser terminado siempre y cuando el tiempo facturado previo y durante los 5 días de aviso este totalmente pago.
 
-7. **Changes**:
-Either party may request to modify the terms of this contract at any time.
-When both parties consent to new terms and a new contract is signed, this
-contract is terminated immediately.
+7. **Cambios**:
+Cualquiera de las partes podrá solicitar realizar modificaciones a este contrato.
+Cuando ambas partes acepten dichas modificaciones y se haya firmado un nuevo contrato, este
+contrato finalizará inmediatamente.
 
-## Concerns
+## Cláusulas
 
-1. **Browser Compatibility**
-The developed software won't have any kind of support for verions older than IE10. Is expected to be used in the lastest versions of Chrome, Firefox, Safari or IE itself.
+1. **Compatibilidad del navegador:**
+El software desarrollado no tendrá ningún tipo de soporte para las versiones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
 
-2. **Testing**
-We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
+2. **Pruebas:**
+Como parte de un proceso serio de desarrollo de software, _el desarrollador_ utiliza como metodología de desarrollo "Test Driven Development", es decir, escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuantas veces se realicen cambios. Por lo tanto si algún empleado por parte _del cliente_ u otros contratistas estarán trabajando en el proyecto junto con _el desarrollador_, se exige que también escriban pruebas para todo el código que producen.
 
-3. **Version Control**
-Git will be used to keep track of all changes that happen in the application.... github pago.
+3. **Control de versiones:**
+Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado este contrato se realizará la transferencia de propiedad del repositorio  a la cuenta de GitHub que proporcione _el cliente_, y este continuará con los gastos de alojamiento del repositorio.
 
-Additional development
-Any additional development needed above and beyond what we have agreed to here must be accompanied by an additional contract which we will be happy to provide upon request. We retain the right to refuse additional work that is not specifically outlined in this document.
+4. **Comunicaciones:**
+Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $ 30 USD.  La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout, o en persona si se encuentra en el _Area Metropolitana_.
 
-Contact
-All communications will be made during regular business hours (Monday-Friday, 9am-5pm CST, excluding holidays) and we will return any contact requests within one business day unless we notify you ahead of time that we will be out of the office. Of course we understand that emergencies do arise, so in the case of one know that our hours will be billed at time and a half. We appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the [MY CITY] area, keeping in mind that any decisions that are made will be written down and require your written approval.
+5. **Puesta en producción**
+Si _el producto_ desarrollado o los servicios prestados requieren de un despliegue en producción, _el desarrollador_ deberá realizar todas las configuraciones necesarias para dicho despliegue. _El cliente_ de igual manera debe hacerse cargo de todos los gastos relacionados con servicios externos, hosting y dominios.
 
-As we value your time as well as our own, we ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that we can be fully prepared. If we are unable to attend a meeting at your suggested time, we will be happy to provide two times that will work for us. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
+6. **Gestión de Proyectos:**
+Durante todo el proceso de desarrollo las herramientas de gestión serán de software libre y sin ningún costo. Si _el cliente_ desea utilizar alguna herramienta en especifico y esta tiene algún costo, este costo debe ser pagado por _el cliente_.
 
-Project Management
-If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
-To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
+<br>
+<br>
+
+----
+Firma _del cliente_, nombre y fecha.
+
+<br>
+<br>
+
+----
+Firma _del desarrolador_, nombre y fecha.
