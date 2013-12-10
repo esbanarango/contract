@@ -44,17 +44,17 @@ creadas durante el período de vigencia de este contrato.
 6. **Terminación**:
 Cualquiera de las partes tiene que dar por lo menos 5 días de antelación a la otra parte antes de dar por terminado dicho contrato y este puede ser terminado siempre y cuando el tiempo facturado previo a los 5 días de aviso este totalmente pago.
 
-7. **Changes**:
-Either party may request to modify the terms of this contract at any time.
-When both parties consent to new terms and a new contract is signed, this
-contract is terminated immediately.
+7. **Cambios**:
+Cualquiera de las partes podrá solicitar realizar modificaciones a este contrato.
+Cuando ambas partes acepten dichas modificaciones y se haya firmado un nuevo contrato, este
+contrato finalizará inmediatamente.
 
-## Concerns
+## Aspectos Importantes
 
-1. **Browser Compatibility**
-The developed software won't have any kind of support for verions older than IE10. Is expected to be used in the lastest versions of Chrome, Firefox, Safari or IE itself.
+1. **Compatibilidad del navegador**
+El software desarrollado no tendrá ningún tipo de soporte para las veriones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
 
-2. **Testing**
+2. **Pruebas**
 We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
 
 3. **Version Control**
