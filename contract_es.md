@@ -1,4 +1,4 @@
-# Contrato de Servicios para el Desarrollo de Software
+# Contrato de prestación de servicios
 
 ## Definiciones
 
@@ -14,6 +14,9 @@ Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petici�
 **Producto**:
 Cualquier código, imágenes, marcas, scripts, o contenido creado por _el desarrollador_, mientras la realización de _servicios_.
 
+
+##Identificación de las Partes 
+El presente contrato se celebra entre _el desarrollador_ y _el cliente_.
 
 ## Terminos
 
@@ -66,3 +69,15 @@ Si _el producto_ desarrollado o los servicios prestados requieren de un desplieg
 
 6. **Gestión de Proyectos:**
 Durante todo el proceso de desarrollo las herramientas de gestión serán de software libre y sin ningún costo. Si _el cliente_ desea utilizar alguna herramienta en especifico y esta tiene algún costo, este costo debe ser pagado por _el cliente_.
+
+-----------
+-----------
+
+______________________
+Firma _del cliente_, nombre y fecha.
+
+-----------
+______________________
+
+Firma _del desarrolador_, nombre y fecha.
+
