@@ -70,14 +70,15 @@ Si _el producto_ desarrollado o los servicios prestados requieren de un desplieg
 6. **Gestión de Proyectos:**
 Durante todo el proceso de desarrollo las herramientas de gestión serán de software libre y sin ningún costo. Si _el cliente_ desea utilizar alguna herramienta en especifico y esta tiene algún costo, este costo debe ser pagado por _el cliente_.
 
------------
------------
+<br>
 
-______________________
+
+----
 Firma _del cliente_, nombre y fecha.
 
------------
-______________________
 
+<br>
+
+----
 Firma _del desarrolador_, nombre y fecha.
 
