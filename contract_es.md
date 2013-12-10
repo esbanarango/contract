@@ -30,7 +30,7 @@ Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
 _El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previa mente acordado por las partes.
 	
 	1. **Pagos Atrasados**:
-        Si el pago tiene más de dos días de retraso, no se realizarán ningún servicios hasta recibir el pago _del cliente_.
+        Si el pago tiene más de dos días de retraso, no se realizará ningún servicio hasta recibir el pago _del cliente_.
 
 
 3. **Tiempo Facturable**:
@@ -38,15 +38,15 @@ Todo el tiempo en el cual se realicen servicios o comunicaciones con _el cliente
 
 
 4. **Copyright**:
-Derechos de autor de todos los productos creados durante la realización de Servicios para _el Cliente_ serán trasladados _al cliente_ una ves se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
+Derechos de autor de todos los productos creados durante la realización de servicios para _el Cliente_ serán trasladados _al cliente_ una ves se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
 
 5. **Excepciones de Copyright**
-	1. _El desarrollador_ se reserva el derecho de reutilizar partes del Producto creado como se desee, siempre y cuando las porciones sean soluciones generales a problemas comunes y no son específicas al producto _del cliente_.
+	1. _El desarrollador_ se reserva el derecho de reutilizar partes del producto creado como se desee, siempre y cuando las porciones sean soluciones generales a problemas comunes y no son específicas al producto _del cliente_.
 	2. _El cliente_ sólo pagará por las partes del producto que sean
 creadas durante el período de vigencia de este contrato.
 
 6. **Terminación**:
-Cualquiera de las partes tiene que dar por lo menos 5 días de antelación a la otra parte antes de dar por terminado dicho contrato y este puede ser terminado siempre y cuando el tiempo facturado previo a los 5 días de aviso este totalmente pago.
+Cualquiera de las partes tiene que dar por lo menos 5 días de antelación a la otra parte antes de dar por terminado dicho contrato y este puede ser terminado siempre y cuando el tiempo facturado previo y durante los 5 días de aviso este totalmente pago.
 
 7. **Cambios**:
 Cualquiera de las partes podrá solicitar realizar modificaciones a este contrato.
