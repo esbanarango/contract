@@ -1,5 +1,8 @@
 # Contrato de prestación de servicios
 
+><div style="float: right;">Medellín, Antioquia. Diciembre 10 de 2013.
+</div>
+
 ## Definiciones
 
 **Desarrollador**:
@@ -50,7 +53,7 @@ Cualquiera de las partes podrá solicitar realizar modificaciones a este contrat
 Cuando ambas partes acepten dichas modificaciones y se haya firmado un nuevo contrato, este
 contrato finalizará inmediatamente.
 
-## Aspectos
+## Cláusulas
 
 1. **Compatibilidad del navegador:**
 El software desarrollado no tendrá ningún tipo de soporte para las versiones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
