@@ -3,18 +3,16 @@
 ## Definiciones
 
 **Desarrollador**:
-Esteban Arango Medina, identificado con cédula número: 1039448326 de Sabaneta, Antioquia, Colombia.
+Esteban Arango Medina, identificado con cédula de ciudadanía número: 1039448326 de Sabaneta, Antioquia, Colombia.
 
 **Cliente**:
-Name of Company or individual entering into this contract with the Developer.
+Andres Felipe Alvarez Bermudez, identificado con cédula de ciudadanía número: 8102663 de Medellín, Antioquia, Colombia.
 
 **Servicios**:
-Any task or series of tasks done by the Developer on request from the Client,
-or as part of fulfilling a request from the Client.
+Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petición _del cliente_, o como parte del cumplimiento de una solicitud _del cliente_.
 
 **Producto**:
-Any code, images, markup, scripts, content created by the Developer while
-performing Services.
+Cualquier código, imágenes, marcas, scripts, o contenido creado por _el desarrollador_, mientras la realización de _servicios_.
 
 
 ## Terminos
@@ -23,7 +21,7 @@ performing Services.
 Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
 
 2. **Pagos**:
-_El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior.
+_El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previa mente acordado por las partes.
 	
 	1. **Pagos Atrasados**:
         Si el pago tiene más de dos dias de retraso, no se realizarán ningún servicios hasta recibir el pago _del cliente_.
@@ -49,25 +47,22 @@ Cualquiera de las partes podrá solicitar realizar modificaciones a este contrat
 Cuando ambas partes acepten dichas modificaciones y se haya firmado un nuevo contrato, este
 contrato finalizará inmediatamente.
 
-## Aspectos Importantes
+## Aspectos
 
-1. **Compatibilidad del navegador**
+1. **Compatibilidad del navegador:**
 El software desarrollado no tendrá ningún tipo de soporte para las versiones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
 
-2. **Pruebas**
+2. **Pruebas:**
 Como parte de un proceso serio de desarrollo de software, _el desarrollador_ utiliza como metodología de desarrollo "Test Driven Development", es decir, escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuántas veces se realizen cambios. Por lo tanto si algún empleado por parte _del cliente_ u otros contratistas estarán trabajando en el proyecto junto con _el desarrollador_, se exige que también escriban pruebas para todo el código que producen.
 
-3. **Control de versiones**
-Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado _el producto_ este repositorio será transpasado a la cuenta que proporcione _el cliente_, y este correré con los gastos de alojamiento del repositorio.
+3. **Control de versiones:**
+Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado este contrato se relaizará la transferencia de propiedad del repositorio  a la cuenta de GitHub que proporcione _el cliente_, y este continuará con los gastos de alojamiento del repositorio.
 
-4. **Comunicaciones**
-Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $ 30 USD. 
+4. **Comunicaciones:**
+Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $ 30 USD.  La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout, o en persona si se encuentra en el _Area Metropolitana_.
 
-La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout , o en persona si se encuentra en el _Area Metropolitana_.
+5.*Puesta en producción*
+Si _el producto_ desarrollado o los servicios prestados requieren de un despliegue en producción, _el desarrollador_ deberá realizar todas las configuraciones necesarias para dicho despliegue. _El cliente_ de igual manera debe hacerse cargo de todos los gastos relacionados con servicios externos, hosting y dominios.
 
-
-5. **Project Management**
-
-If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
-To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
-
+6. **Gestión de Proyectos:**
+Durante todo el proceso de desarrollo las herramientas de gestión serán de software libre y sin ningún costo. Si _el cliente_ desea utilizar alguna herramienta en especifico y esta tiene algún costo, este costo debe ser pagado por _el cliente_.
