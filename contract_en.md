@@ -9,7 +9,7 @@
 Esteban Arango Medina, identificado con cédula de ciudadanía número: 1039448326 de Sabaneta, Antioquia, Colombia.
 
 **Cliente**:
-Andres Felipe Alvarez Bermudez, identificado con cédula de ciudadanía número: 8102663 de Medellín, Antioquia, Colombia.
+----------, identificado con cédula de ciudadanía número: ----- de --------.
 
 **Servicios**:
 Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petición _del cliente_, o como parte del cumplimiento de una solicitud _del cliente_.
@@ -18,7 +18,7 @@ Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petici�
 Cualquier código, imágenes, marcas, scripts, o contenido creado por _el desarrollador_, mientras la realización de _servicios_.
 
 
-##Identificación de las Partes 
+##Identificación de las partes 
 El presente contrato se celebra entre _el desarrollador_ y _el cliente_.
 
 ## Terminos
@@ -27,7 +27,7 @@ El presente contrato se celebra entre _el desarrollador_ y _el cliente_.
 Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
 
 2. **Pagos**:
-_El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previa mente acordado por las partes.
+_El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previamente acordado por las partes.
 	
 	1. **Pagos Atrasados**:
         Si el pago tiene más de dos días de retraso, no se realizará ningún servicio hasta recibir el pago _del cliente_.
@@ -38,7 +38,7 @@ Todo el tiempo en el cual se realicen servicios o comunicaciones con _el cliente
 
 
 4. **Copyright**:
-Derechos de autor de todos los productos creados durante la realización de servicios para _el Cliente_ serán trasladados _al cliente_ una ves se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
+Derechos de autor de todos los productos creados durante la realización de servicios para _el Cliente_ serán trasladados _al cliente_ una vez se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
 
 5. **Excepciones de Copyright**
 	1. _El desarrollador_ se reserva el derecho de reutilizar partes del producto creado como se desee, siempre y cuando las porciones sean soluciones generales a problemas comunes y no son específicas al producto _del cliente_.
@@ -77,10 +77,10 @@ Durante todo el proceso de desarrollo las herramientas de gestión serán de sof
 <br>
 
 ----
-Firma _del cliente_, nombre y fecha.
+Firma _cliente_, nombre y fecha.
 
 <br>
 <br>
 
 ----
-Firma _del desarrolador_, nombre y fecha.
+Firma _desarrollador_, nombre y fecha.
