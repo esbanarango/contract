@@ -6,10 +6,10 @@
 ## Definiciones
 
 **Desarrollador**:
-Esteban Arango Medina, identificado con cédula de ciudadanía número: 1039448326 de Sabaneta, Antioquia, Colombia.
+Esteban Arango Medina, identificado con cédula de ciudadanía número: ********* de *******, ******, Colombia.
 
 **Cliente**:
-Andres Felipe Alvarez Bermudez, identificado con cédula de ciudadanía número: 8102663 de Medellín, Antioquia, Colombia.
+___________, identificado con cédula de ciudadanía número: _______.
 
 **Servicios**:
 Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petición _del cliente_, o como parte del cumplimiento de una solicitud _del cliente_.
@@ -24,7 +24,7 @@ El presente contrato se celebra entre _el desarrollador_ y _el cliente_.
 ## Terminos
 
 1. **Tarifa**:
-Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
+Servicios se facturarán _al cliente_ a razón de $__ USD por hora.
 
 2. **Pagos**:
 _El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previa mente acordado por las partes.
@@ -65,7 +65,7 @@ Como parte de un proceso serio de desarrollo de software, _el desarrollador_ uti
 Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado este contrato se realizará la transferencia de propiedad del repositorio  a la cuenta de GitHub que proporcione _el cliente_, y este continuará con los gastos de alojamiento del repositorio.
 
 4. **Comunicaciones:**
-Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $ 30 USD.  La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout, o en persona si se encuentra en el _Area Metropolitana_.
+Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $__ USD.  La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout, o en persona si se encuentra en el _Area Metropolitana_.
 
 5. **Puesta en producción**
 Si _el producto_ desarrollado o los servicios prestados requieren de un despliegue en producción, _el desarrollador_ deberá realizar todas las configuraciones necesarias para dicho despliegue. _El cliente_ de igual manera debe hacerse cargo de todos los gastos relacionados con servicios externos, hosting y dominios.
@@ -77,11 +77,11 @@ Durante todo el proceso de desarrollo las herramientas de gestión serán de sof
 <br>
 
 ----
-Firma _del cliente_, nombre y fecha.
+Firma _cliente_, nombre y fecha.
 
 <br>
 <br>
 
 ----
-Firma _del desarrolador_, nombre y fecha.
+Firma _desarrollador_, nombre y fecha.
 
