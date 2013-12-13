@@ -1,86 +1,82 @@
-# Contrato de prestación de servicios
+Service Contract for Software Development
 
 ><div style="float: right;">Medellín, Antioquia. Diciembre 10 de 2013.
 </div>
 
-## Definiciones
+## Definitions
 
-**Desarrollador**:
-Esteban Arango Medina, identificado con cédula de ciudadanía número: 1039448326 de Sabaneta, Antioquia, Colombia.
+**Developer**:
+Esteban Arango Medina, identified with citizenship document number: ********* of *******, ******, Colombia.
 
-**Cliente**:
-----------, identificado con cédula de ciudadanía número: ----- de --------.
+**Client**:
+_________________________, identified with citizenship document number: ********* de *******, ******, *******.
 
-**Servicios**:
-Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petición _del cliente_, o como parte del cumplimiento de una solicitud _del cliente_.
+**Services**: 
+Any task or series of tasks done by _the developer_ on request from _the client_, or as part of fulfilling a request from _the client_.
 
-**Producto**:
-Cualquier código, imágenes, marcas, scripts, o contenido creado por _el desarrollador_, mientras la realización de _servicios_.
-
-
-##Identificación de las partes 
-El presente contrato se celebra entre _el desarrollador_ y _el cliente_.
-
-## Terminos
-
-1. **Tarifa**:
-Servicios se facturarán _al cliente_ a razón de $ 25 USD por hora.
-
-2. **Pagos**:
-_El cliente_ deberá enviar el pago _al desarrollador_ cada lunes en relación a la semana de trabajo anterior. Este podrá realizarse a través de una consignación en la cuenta _del desarrollador_ o a través del medio previamente acordado por las partes.
-	
-	1. **Pagos Atrasados**:
-        Si el pago tiene más de dos días de retraso, no se realizará ningún servicio hasta recibir el pago _del cliente_.
+**Product**: 
+Any code, images, markup, scripts, content created by _the developer_ while performing Services.
 
 
-3. **Tiempo Facturable**:
-Todo el tiempo en el cual se realicen servicios o comunicaciones con _el cliente_ es facturable.
+## Identification of Parties
+This contract is between _the developer_ and _the customer_.
 
 
-4. **Copyright**:
-Derechos de autor de todos los productos creados durante la realización de servicios para _el Cliente_ serán trasladados _al cliente_ una vez se reciba el pago en su totalidad, excepto en los casos descritos a continuación.
+## Terms
 
-5. **Excepciones de Copyright**
-	1. _El desarrollador_ se reserva el derecho de reutilizar partes del producto creado como se desee, siempre y cuando las porciones sean soluciones generales a problemas comunes y no son específicas al producto _del cliente_.
-	2. _El cliente_ sólo pagará por las partes del producto que sean
-creadas durante el período de vigencia de este contrato.
+1. **Rate**: 
+Services shall be billed to _the client_ at the rate of $__ USD per hour.
 
-6. **Terminación**:
-Cualquiera de las partes tiene que dar por lo menos 5 días de antelación a la otra parte antes de dar por terminado dicho contrato y este puede ser terminado siempre y cuando el tiempo facturado previo y durante los 5 días de aviso este totalmente pago.
+2. **Payment**: 
+_The client_ shall send payment to _the developer_ each monday concerning to the work week preceding. This may be done through an entry in the account of _the developer_ or through the medium mind agreed upon by the parties.
 
-7. **Cambios**:
-Cualquiera de las partes podrá solicitar realizar modificaciones a este contrato.
-Cuando ambas partes acepten dichas modificaciones y se haya firmado un nuevo contrato, este
-contrato finalizará inmediatamente.
+	1. **Late Payment**
+	If a payment is more than 2 days late, no _services_ will be performed for _the client_ until payment is received.
 
-## Cláusulas
+3. **Billable Time**: 
+All time spent performing _services_ and communicating with _the client_ is billable.
 
-1. **Compatibilidad del navegador:**
-El software desarrollado no tendrá ningún tipo de soporte para las versiones anteriores a IE10. Se da por sentado que este será utilizado en las últimas versiones de Chrome, Firefox, Safari o IE.
+4. **Copyright**: 
+Copyright of all _products_ created while performing _services_ for _the client_ will be transferred to _the client_ upon receipt of payment in full, except in the cases described below.
 
-2. **Pruebas:**
-Como parte de un proceso serio de desarrollo de software, _el desarrollador_ utiliza como metodología de desarrollo "Test Driven Development", es decir, escribir pruebas antes de escribir código, lo que permite asegurar que toda la funcionalidad requerida no sólo está presente, sino que trabaja no importa cuantas veces se realicen cambios. Por lo tanto si algún empleado por parte _del cliente_ u otros contratistas estarán trabajando en el proyecto junto con _el desarrollador_, se exige que también escriban pruebas para todo el código que producen.
+5. **Copyright Exceptions**
+	1. _The developer_ reserves the right to reuse and re-license portions of the created _product_ as desired, as long as the portions are general solutions to common problems and are not specific to _the clients_ product.
+	2. _The client_ will only be billed for portions of _the product_ which were created during the effective period of this contract and created while performing _services_ for the _client_.
+	3. 
+6. **Termination**:
+Either party must give at least 5 days notice to the other party before termination. This contract may only be terminated after all outstanding invoices have been paid in full.
 
-3. **Control de versiones:**
-Git será usado para tener un seguimiento claro del proyecto en cuanto a código. El repositorio del proyecto estará alojado en GitHub de manera privada y es _el cliente_ el encargado de cancelar los costos mensuales del mismo durante todo el proceso de desarrollo. Una vez terminado este contrato se realizará la transferencia de propiedad del repositorio  a la cuenta de GitHub que proporcione _el cliente_, y este continuará con los gastos de alojamiento del repositorio.
+7. **Changes**:
+Either party may request to modify the terms of this contract at any time. When both parties consent to new terms and a new contract is signed, this contract is terminated immediately.
 
-4. **Comunicaciones:**
-Todas las comunicaciones se realizarán durante horas regulares de trabajo (Lunes - Viernes , 09 a.m.-5 p.m. hora Colombiana, exceptuando festivos). Se entiende que existen situaciones de emergencia, por lo que en dichas situaciones cada hora trabajada por fuera de las horas regulares de trabajo mencionadas anteriormente se facturarán _al cliente_ a razón de $ 30 USD.  La comunicación podrá ser en un medio basado en texto ó a través de Skype / Google Hangout, o en persona si se encuentra en el _Area Metropolitana_.
+## Clauses
 
-5. **Puesta en producción**
-Si _el producto_ desarrollado o los servicios prestados requieren de un despliegue en producción, _el desarrollador_ deberá realizar todas las configuraciones necesarias para dicho despliegue. _El cliente_ de igual manera debe hacerse cargo de todos los gastos relacionados con servicios externos, hosting y dominios.
+1. **Browser Compatibility:**
+The developed software won't have any kind of support for verions older than IE10. Is expected to be used in the lastest versions of Chrome, Firefox, Safari or IE itself.
 
-6. **Gestión de Proyectos:**
-Durante todo el proceso de desarrollo las herramientas de gestión serán de software libre y sin ningún costo. Si _el cliente_ desea utilizar alguna herramienta en especifico y esta tiene algún costo, este costo debe ser pagado por _el cliente_.
+2. **Testing:**
+As part of a serious process of software development, the developer uses as development methodology called "Test Driven Development", i.e. write tests before write code, which ensures that all required functionality is not only present, but works no matter how often often changes are made. Therefore if any employee by _the client_ or other contractors will be working on the project along with _the developer_, it's required that they also write tests for all code they produce.
+
+3. **Version Control:** 
+Git will be used for a clear monitoring of the project in terms of code. The project repository will be hosted on GitHub as a private repository and it is responsability of _the customer_ to cancel the monthly cost throughout all of the development process. Once this contract is finished, the repository will be transefred to the GitHub account provided by _the customer_, and this will continue with the monthly costs of the repository.
+
+4. **Comunications:**
+All communications will be made during regular business hours (Monday-Friday, 9am-5pm Colombian time, excluding holidays). It is understood that there are emergencies, so in such situations each hour worked outside the regular working hours mentioned above will be invoiced at $__ USD. Communication can be made through a text-based medium or through Skype / Google Hangout, or even in person if both parties are in the Metropolitan Area.
+
+4. **Deployment:**
+If _the product_ developed or provided services require a production deployment, _the developer_ shall make all necessary configurations for such deployment. _The customer_ must equally bear all expenses related to external services, hosting and domains.
+
+5. **Project Management:**
+During the development process, all management tools will be free software without any cost. If the client wishes to use one specific tool and this has a cost, this cost must be paid by the customer.
 
 <br>
 <br>
 
 ----
-Firma _cliente_, nombre y fecha.
+_Client_ signature, name and date.
 
 <br>
 <br>
 
 ----
-Firma _desarrollador_, nombre y fecha.
+_Developer_ signature, name and date.
