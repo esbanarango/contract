@@ -9,7 +9,7 @@
 Esteban Arango Medina, identificado con cédula de ciudadanía número: ********* de *******, ******, Colombia.
 
 **Cliente**:
-___________, identificado con cédula de ciudadanía número: _______.
+_________________________, identificado con cédula de ciudadanía número: ********* de *******, ******, Colombia.
 
 **Servicios**:
 Cualquier tarea o conjunto de tareas realizadas por _el desarrollador_ a petición _del cliente_, o como parte del cumplimiento de una solicitud _del cliente_.
