@@ -42,7 +42,7 @@ Copyright of all _products_ created while performing _services_ for _the client_
 5. **Copyright Exceptions**
 	1. _The developer_ reserves the right to reuse and re-license portions of the created _product_ as desired, as long as the portions are general solutions to common problems and are not specific to _the clients_ product.
 	2. _The client_ will only be billed for portions of _the product_ which were created during the effective period of this contract and created while performing _services_ for the _client_.
-	3. 
+
 6. **Termination**:
 Either party must give at least 5 days notice to the other party before termination. This contract may only be terminated after all outstanding invoices have been paid in full.
 
