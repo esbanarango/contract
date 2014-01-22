@@ -1,6 +1,6 @@
 # Service Contract for Software Development
 
-><div style="float: right;">Medellín, Antioquia. Diciembre 10 de 2013.
+><div style="float: right;">Medellín, Antioquia. ********* ** of 2014.
 </div>
 
 ## Definitions
@@ -9,7 +9,7 @@
 Esteban Arango Medina, identified with citizenship document number: ********* of *******, ******, Colombia.
 
 **Client**:
-_________________________, identified with citizenship document number: ********* de *******, ******, *******.
+_________________________, identified with citizenship document number: ********* of *******, ******, *******.
 
 **Services**: 
 Any task or series of tasks done by _the developer_ on request from _the client_, or as part of fulfilling a request from _the client_.
